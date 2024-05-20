@@ -16,7 +16,7 @@
 <!--   <img src="" width="100%" title="Intro Card" alt="Intro Card"> -->
 <!-- </p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhuozhiyongde&show_icons=true&theme=radical&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
+  <img src="https://github-readme-stats.vercel.app/api?username=Glasscats&show_icons=true&theme=radical&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
   </p>
 
 
@@ -37,14 +37,14 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuozhiyongde&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glasscats&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
 </p>
 
 ### You can checkout my blogs
 
 https://glasscats.top
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhuozhiyongde&count_bg=%2330BBCC&title_bg=%23555555&icon=spacex.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGlasscats&count_bg=%2330BBCC&title_bg=%23555555&icon=spacex.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   
 </div>
 <!--
