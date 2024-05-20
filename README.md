@@ -1,5 +1,6 @@
-<center>Hi I'm Glasscats</center>
-<div align="center"> <img src="https://metrics.lecoq.io/Glasscats?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center">
+  <h1><pre>Hi, I'm Glasscats</pre></h1>
+</div>
 <!--
 **Glasscats/Glasscats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
