@@ -1,6 +1,6 @@
 <div align="center">
 
-![conanai.png](https://s11.ax1x.com/2024/01/02/pijGn6H.png)
+[![pkKlv7t.webp](https://s21.ax1x.com/2024/05/20/pkKlv7t.webp)](https://imgse.com/i/pkKlv7t)
   
 <div align="center">
   <h1><pre>Hi, I'm 𝔾𝕝𝕒𝕤𝕤𝕔𝕒𝕥𝕤</pre></h1>
