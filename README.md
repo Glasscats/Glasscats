@@ -1,4 +1,4 @@
-### Hi I'm Glasscats
+# Hi I'm Glasscats
 
 <!--
 **Glasscats/Glasscats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
